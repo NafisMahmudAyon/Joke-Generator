@@ -1,6 +1,6 @@
 # Joke Generator
 
-This is a joke genetator website.
+This is a joke generator website.
 
 # Here are the preview of site.
 
